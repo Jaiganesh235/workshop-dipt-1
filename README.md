@@ -67,6 +67,7 @@ cv2.destroyAllWindows()
 
 
 #### HSV :
+![Screenshot 2024-02-27 110129](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/c4f6bcdb-2fe3-44b9-ac21-f1ea31266494)
 
 
 
