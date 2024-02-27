@@ -28,7 +28,7 @@ cv2.waitKey(0)
 ***The image should be Converted to gray scale :***
 ```
 import cv2
-image = cv2.imread('flower.jpg')
+image = cv2.imread('Jais.jpg')
 gray = cv2. cvtColor(image, cv2.COLOR_BGR2GRAY)
 cv2. imshow('gray_scale', gray)
 cv2. waitKey(0)
@@ -37,7 +37,7 @@ cv2. destroyAllWindows()
 ***The image should be Converted to HSV :***
 ```
 import cv2
-image = cv2.imread('flower.jpg')
+image = cv2.imread(''Jais.jpg')
 gray = cv2. cvtColor(image, cv2.COLOR_BGR2HSV)
 cv2. imshow('my_img', gray)
 cv2. waitKey(0)
@@ -46,7 +46,7 @@ cv2. destroyAllWindows()
 ***Display the H, S and V planes :***
 ```
 import cv2
-image=cv2.imread("flower.jpg",1)
+image=cv2.imread("Jais.jpg",1)
 image= cv2.resize(image,(400,250))
 image=cv2.cvtColor(image,cv2.COLOR_RGB2HSV)
 H,S,V=cv2.split(image)
