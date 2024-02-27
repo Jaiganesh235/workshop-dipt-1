@@ -6,12 +6,12 @@
 ## AIM:
    To convert the given image into grayscale and HSV.
 
-## ALGORITHM  :
+## INSTRUCTIONS  :
 1. The image should be a plant, Tree, flower or building.
 
 2. The filename should be username.jpg.
 
-3.The image should be Converted to gray scale and HSV
+3. The image should be Converted to gray scale and HSV
 
 4. Display the H, S and V planes
 
