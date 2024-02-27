@@ -58,26 +58,29 @@ cv2.destroyAllWindows()
 ```
 ## OUTPUT :
 #### IMAGE :
-![Screenshot 2024-02-27 104038](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/ab37b8c7-13cd-4ed5-85a7-fe0b5d279a15)
+![Screenshot 2024-02-27 105213](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/2f857edf-4ae9-4af9-8a46-b6e865d388f6)
+
 
 #### GRAY SCALE :
-![Screenshot 2024-02-27 104057](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/6cfbd822-f332-43a0-b74e-b8897e475c8c)
+![Screenshot 2024-02-27 105253](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/8a65e429-cfd1-4920-9e2c-c34e198df35e)
+
 
 
 #### HSV :
-![Screenshot 2024-02-27 104105](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/b1aff30e-b6ed-41e9-a298-f6953b70f3e3)
+
+
 
 
 #### HUE :
-![Screenshot 2024-02-27 104113](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/dac43204-eae2-4862-ab79-7e93c902f15a)
+![Screenshot 2024-02-27 105427](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/5a296f4f-336c-4de0-9f34-47fc38cd57c8)
 
 
 #### VALUE :
-![Screenshot 2024-02-27 104132](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/946a76ff-110e-4b05-bae0-f4dedf90c6d5)
+![Screenshot 2024-02-27 105500](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/ce8e38ca-2262-4990-bae5-b45f4ca35a5c)
 
 
 #### SATURATION :
-![Screenshot 2024-02-27 104123](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/57535b44-2d5c-46e8-971b-47e865993196)
+![Screenshot 2024-02-27 105437](https://github.com/Jaiganesh235/workshop-dipt-1/assets/118657189/4f532e34-10c8-4449-9156-a81b56f14052)
 
 
 ## RESULT :
